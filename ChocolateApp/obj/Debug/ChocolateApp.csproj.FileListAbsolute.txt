@@ -13,3 +13,16 @@ C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\
 E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\ChocolateApp.exe.config
 E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.exe
 E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.pdb
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\ChocolateApp.exe.manifest
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\ChocolateApp.application
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\ChocolateApp.exe
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\ChocolateApp.pdb
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\GitHubSharp.dll
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\Newtonsoft.Json.dll
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\Newtonsoft.Json.xml
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.csprojResolveAssemblyReference.cache
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.Form1.resources
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.Properties.Resources.resources
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.csproj.GenerateResource.Cache
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.exe.manifest
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.application
