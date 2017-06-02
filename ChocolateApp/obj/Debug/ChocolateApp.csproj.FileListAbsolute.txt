@@ -1,0 +1,15 @@
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.exe.config
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.exe.manifest
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.application
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.exe
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.pdb
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.Form1.resources
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.Properties.Resources.resources
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.csproj.GenerateResource.Cache
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.exe.manifest
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.application
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.exe
+C:\Users\Prasun\documents\visual studio 2015\Projects\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.pdb
+E:\Chocolatey App\myapp\ChocolateApp\bin\Debug\ChocolateApp.exe.config
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.exe
+E:\Chocolatey App\myapp\ChocolateApp\obj\Debug\ChocolateApp.pdb
